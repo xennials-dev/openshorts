@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "openshorts": {
+      "url": "https://outside-tiles-usc-hence.trycloudflare.com/mcp"
+    },
+    "openshorts-local": {
+      "url": "http://localhost:8000/mcp"
+    }
+  }
+}
